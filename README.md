@@ -36,7 +36,7 @@ $ python3 buckshot.py -i websites.txt
 $ python3 buckshot.py --help
 usage: buckshot.py [-h] [-i INPUTFILE] [-r]
 
-Nebula Elite Buckshot
+Nebula
 
 optional arguments:
   -h, --help            show this help message and exit
