@@ -21,7 +21,7 @@ class Nebula:
 
         self.driver = webdriver.Chrome(options=self.options)
 
-        self.parser = argparse.ArgumentParser(description='Nebula Elite Buckshot')
+        self.parser = argparse.ArgumentParser(description='Nebula')
         self.parser.add_argument('-i', '--inputfile', help="Specify a text file with line-separated domains")
         self.parser.add_argument('-r', '--report', action="store_true", help="Regenerate the report instead of running another long-winded scan.")
 
