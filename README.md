@@ -2,7 +2,7 @@
 
 # What is Nebula?
 
-It's for scanning a large amount of websites and taking screenshots of them. This is a very early alpha. Use at your own frustration.
+It's for viewing a large amount of websites and taking screenshots of them automatically. This is a very early alpha. Use at your own frustration.
 
 ## Why?
  
@@ -10,8 +10,7 @@ Imagine you're on a red team engagememt and there are hundreds of hosts. You hav
 
 You are then free to pick the most likely targets of opportunity.
  
- 
- # Usage
+# Usage
 
 ## Inputfile
  
