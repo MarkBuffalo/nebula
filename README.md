@@ -6,7 +6,9 @@ It's for viewing a large amount of websites and taking screenshots of them autom
 
 ## Why?
  
-Imagine you're on a red team engagement and there are hundreds, perhaps thousands of hosts. You have limited time to get a quick overview of the juiciest targets. Enter Nebula Elite Buckshot. This script generates screenshots of each page, port and protocol, then displays them in an html file that allows you to sort between protocols and ports. 
+Imagine you're on a red team engagement and there are hundreds, perhaps thousands of hosts. You have limited time to get a quick overview of the juiciest targets. 
+
+Enter Nebula. This script generates screenshots of each page, port and protocol, then displays them in an html file that allows you to sort between protocols and ports. 
 
 You are then free to pick the most likely targets of opportunity.
  
