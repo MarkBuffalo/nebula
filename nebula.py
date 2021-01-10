@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.options import Options
 import glob
 import argparse
 import sys
+import os
 
 
 class Nebula:
@@ -27,6 +28,9 @@ class Nebula:
 
         self.args = self.parser.parse_args()
         self.input_file = ""
+
+        if not os.path.exists("shots/"):
+            os.makedirs("shots/")
 
     def run(self):
         if self.args.report:
